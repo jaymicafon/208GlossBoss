@@ -1,0 +1,27 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>Gallery • 208GlossBoss</title><link rel="stylesheet" href="css/style.css"></head>
+<body>
+  <header class="header"><div class="container header-inner">
+    <img src="images/logo.png" alt="logo" onerror="this.style.display='none'">
+    <div><div class="site-title">208GlossBoss</div><div class="site-tagline">Gallery</div></div>
+    <div style="margin-left:auto;text-align:right"><div class="small site-phone">208-576-8594</div></div>
+  </div></header>
+
+  <nav><div class="container">
+    <a href="index.html">Home</a><a href="services.html">Services</a><a href="gallery.html">Gallery</a><a href="booking.html">Book</a><a href="about.html">About</a><a href="contact.html">Contact</a>
+  </div></nav>
+
+  <section class="section">
+    <div class="container">
+      <h2>Before & After — Interior Detail (Yukon Denali)</h2>
+      <p class="muted">Photos and videos from completed Denali interior details.</p>
+      <div id="gallery-grid" class="gallery-grid" style="margin-top:12px"></div>
+      <p class="muted" style="margin-top:12px">Tip: replace images/video files in <code>/images/</code> or update <code>js/config.js</code>.</p>
+    </div>
+  </section>
+
+  <footer class="footer"><div class="container footer-contact">Phone: 208-576-8594 • Boise area</div></footer>
+
+  <script src="js/config.js"></script>
+  <script src="js/main.js"></script>
+</body></html>
